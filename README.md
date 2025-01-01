@@ -20,6 +20,7 @@ To run this game, you need Python and the Pygame library installed. Follow the s
     ```bash
     pip install pygame
     ```
+4. Unzip the two .7z files into a folder.
 
 ## Running the Game
 
