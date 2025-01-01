@@ -2,6 +2,7 @@
 
 This is a Python mock-up of a puzzle from the hit game [UNDERTALE](https://www.undertale.com/).
 (no affiliaton)
+I compiled this into a .exe file for convinience.
 
 ## Installation
 
