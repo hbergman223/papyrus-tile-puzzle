@@ -49,6 +49,6 @@ The game window will open, and you can start playing!
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License (GPL) v3 - see the [LICENSE](LICENSE) file for details.
 
 ***README made with ChatGPT (again, no affiliation, shoo copyright) because am lazy***
