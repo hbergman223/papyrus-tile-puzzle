@@ -1,18 +1,11 @@
 # Tile Game
 
-This is a simple grid-based game created using Python and the Pygame library. In the game, the player navigates through a grid of colorful tiles, each with different effects. The objective is to reach the black square without stepping on obstacles or encountering dangerous tiles.
-
-## Features
-
-- **Grid-Based Movement:** Move the player through a 10x10 grid using the arrow keys.
-- **Tile Types:** Each tile has a different effect on the player, including walls, monsters, and electric tiles.
-- **Randomized Grid:** The game generates a random grid with various tile types.
-- **Victory Condition:** Reach the black square to win the game.
-- **Obstacles and Hazards:** Certain tiles (e.g., wall, electric, piranhas) block or harm the player.
+This is a Python mock-up of a puzzle from the hit game [UNDERTALE](https://www.undertale.com/).
+(no affiliaton)
 
 ## Installation
 
-To run this game, you need Python and the Pygame library installed. Follow the steps below to set it up:
+To run this, you need Python and the Pygame library installed. Follow the steps below to set it up:
 
 1. Clone this repository or download the game files.
 2. Install Python if you don't have it already. You can download it from [python.org](https://www.python.org/downloads/).
@@ -58,4 +51,4 @@ The game window will open, and you can start playing!
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-***README made with ChatGPT (no affiliation) because am lazy***
+***README made with ChatGPT (again, no affiliation, shoo copyright) because am lazy***
