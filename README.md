@@ -5,26 +5,17 @@ This is a Python mock-up of a puzzle from the hit game [UNDERTALE](https://www.u
 
 ## Installation
 
-To run this, you need Python and the Pygame library installed. Follow the steps below to set it up:
+To run this, you need Python installed. Follow the steps below to set it up:
 
 1. Clone this repository or download the game files.
 2. Install Python if you don't have it already. You can download it from [python.org](https://www.python.org/downloads/).
-3. Install Pygame:
-    ```bash
-    pip install pygame
-    ```
-4. Unzip the two .7z files into a folder.
+3. Unzip the two .7z files into a folder.
+4. Open dist and run Papyrus-Tile-Puzzle.exe
 
 ## Running the Game
-
-1. Navigate to the project directory in your terminal.
-2. Run the game script:
-    ```bash
-    python tile_game.py
-    ```
-
-The game window will open, and you can start playing!
-
+1. Open the directory in which this is located.
+2. Open dist and run Papyrus-Tile-Puzzle.exe
+   
 ## Controls
 
 - **Arrow Keys**: Move the player around the grid.
@@ -42,13 +33,8 @@ The game window will open, and you can start playing!
   - **Pink (Pi)**: Start or Goal position.
   - **Black**: The goal tile, which the player must reach to win.
 
-## Acknowledgements
-
-- Pygame: The game uses the [Pygame library](https://www.pygame.org/), which makes it easy to create games in Python.
-- Random module: Used to randomly generate the grid and the black square position.
-
 ## License
 
 This project is licensed under the GNU General Public License (GPL) v3 - see the [LICENSE](LICENSE) file for details.
 
-***README made with ChatGPT (again, no affiliation, shoo copyright) because am lazy***
+***README made by me in addition to ChatGPT (again, no affiliation, shoo copyright).***
