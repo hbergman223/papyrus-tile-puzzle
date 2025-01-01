@@ -10,7 +10,6 @@ To run this, you need Python installed. Follow the steps below to set it up:
 1. Clone this repository or download the game files.
 2. Install Python if you don't have it already. You can download it from [python.org](https://www.python.org/downloads/).
 3. Unzip the two .7z files into a folder.
-4. Open dist and run Papyrus-Tile-Puzzle.exe
 
 ## Running the Game
 1. Open the directory in which this is located.
